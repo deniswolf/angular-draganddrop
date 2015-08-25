@@ -1,3 +1,5 @@
+(function(){
+  'use strict';
 /*! Angular draganddrop v0.2.1 | (c) 2013 Greg Bergé | License MIT */
 
 angular
@@ -194,3 +196,4 @@ function dropDirective($parse) {
     }
   };
 }
+})();
